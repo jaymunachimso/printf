@@ -1,2 +1,1 @@
-# printf
-printf alx collaborative task
+0x11. C - printf
